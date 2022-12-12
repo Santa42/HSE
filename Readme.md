@@ -3,7 +3,7 @@
 * Тесты
   * [Тест 1](https://forms.gle/WHRhfKub4A43qM3n7)
   * [Тест 2](https://forms.gle/F6T6Uhcztz5Ty6Xu7)
-  * Тест 3 в разработке
+  * [Тест 3](https://forms.gle/HjWUKTxHDCbL9Hgx8)
 
 * Самостоятельные работы:
     1. [Реализация небольшой сети офиса](lab1/)
